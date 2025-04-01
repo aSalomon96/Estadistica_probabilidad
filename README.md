@@ -1,4 +1,4 @@
-# Estadistica_probabilidad# Prueba A/B Testing para Optimización de Conversiones 📊
+# Prueba A/B Testing para Optimización de Conversiones 📊
 
 ## Descripción del Proyecto 📝
 Este proyecto tiene como objetivo analizar una prueba A/B para evaluar el impacto de diferentes versiones de una página web en la conversión de usuarios. Se busca determinar si existe una diferencia estadísticamente significativa entre los grupos de prueba (A y B) en términos de tasa de conversión.
